@@ -9,6 +9,7 @@ A collection of open-source integrations with Mochi
 - [mochi2anki](https://github.com/AlexW00/mochi2anki) Simple converter script to convert Mochi cards to Anki cards.
 - [mochi-api-client](https://github.com/gsejas/mochi-api-client) Python wrapper for the Mochi spaced repetition platform
 - [ug-to-mochi.py](https://gist.github.com/intellectronica/f5d093ccb1618aa3f9faf6d5c42304f3) (Script for creating Mochi flashcards based on the Ultimate Geography card collection)
+- MkFlascards ([source on github](https://github.com/intellectronica/mkflashcards)) ([web app on huggingface spaces](https://huggingface.co/spaces/intellectronica/mkflashcards) - BYO OpenAI API key) Automagically create flashcards (in Mochi markdown format) from a piece of text.
 
 ## Contributing
 If you have an open source project you'd like to share, please submit a pull request!
