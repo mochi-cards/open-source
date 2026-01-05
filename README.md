@@ -11,6 +11,7 @@ A collection of open-source integrations with Mochi
 - [ug-to-mochi.py](https://gist.github.com/intellectronica/f5d093ccb1618aa3f9faf6d5c42304f3) (Script for creating Mochi flashcards based on the Ultimate Geography card collection)
 - [MkFlashcards](https://github.com/intellectronica/mkflashcards) ([web app on huggingface](https://huggingface.co/spaces/intellectronica/mkflashcards) - BYO API key) Automagically create flashcards from text using AI in a Mochi-friendly format.
 - [logseq-mochi-sync](https://github.com/benwr/logseq-mochi-sync) One-way synchronization of flashcards from Logseq to Mochi
+- [mochi-claude-code-gen](https://github.com/sent-hil/mochi-claude-code-gen) Mochi Flashcard generator with Claude Code
 
 ## Contributing
 If you have an open source project you'd like to share, please submit a pull request!
