@@ -12,7 +12,8 @@ A collection of open-source integrations with Mochi
 - [MkFlashcards](https://github.com/intellectronica/mkflashcards) ([web app on huggingface](https://huggingface.co/spaces/intellectronica/mkflashcards) - BYO API key) Automagically create flashcards from text using AI in a Mochi-friendly format.
 - [logseq-mochi-sync](https://github.com/benwr/logseq-mochi-sync) One-way synchronization of flashcards from Logseq to Mochi
 - [mochi-claude-code-gen](https://github.com/sent-hil/mochi-claude-code-gen) Mochi Flashcard generator with Claude Code
-- [mcp-mochi](https://github.com/fredrikalindh/mcp-mochi) MCP server for Mochi flashcard system to create flashcards with Claude. 
+- [mcp-mochi](https://github.com/fredrikalindh/mcp-mochi) MCP server for Mochi flashcard system to create flashcards with Claude.
+- [mochi-mcp](https://github.com/itzcull/mochi-mcp) Another unofficial MCP server for Mochi.
 
 ## Contributing
 If you have an open source project you'd like to share, please submit a pull request!
